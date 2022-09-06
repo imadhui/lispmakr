@@ -2,7 +2,7 @@
   :version "0.1.0"
   :author "Madhu Surisetti"
   :license "MIT"
-  :depends-on ("markr")
+  :depends-on ("markr" "clog")
   :components ((:module "src"
                 :components
                 ((:file "main"))))
